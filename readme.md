@@ -1,6 +1,8 @@
 # Olá! Eu sou Marcos Nogueira 👋
 
-Sou um desenvolvedor apaixonado por tecnologia e pela criação de soluções que unem eficiência, usabilidade e uma boa experiência. Em formação em **Análise e Desenvolvimento de Sistemas** pela **[Faculdade Princesa do Oeste](https://fpo.edu.br/) (FPO)**, em Crateús - CE, combino pensamento lógico, comunicação e visão de produto para transformar problemas reais em soluções reais.
+Sou um desenvolvedor desde a época que a internet era mato (eu já usei o Microsoft Frontpage e também já usei o Dreamweaver na época que era da Macromedia 😄). Eu sou apaixonado por tecnologia e pela criação de soluções que unem eficiência, usabilidade e uma boa experiência. 
+
+Em formação em **Análise e Desenvolvimento de Sistemas** pela **[Faculdade Princesa do Oeste](https://fpo.edu.br/) (FPO)**, em Crateús - CE, combino pensamento lógico, comunicação e visão de produto para transformar problemas reais em soluções reais.
 
 ### Informações rápidas
 
